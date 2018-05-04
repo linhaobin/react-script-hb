@@ -2,13 +2,13 @@
   "name": "react-scripts-hb",
   "version": "0.0.1",
   "description": "Configuration and scripts for Create React App.",
-  "repository": "facebookincubator/create-react-app",
+  "repository": "linhaobin/react-script-hb",
   "license": "MIT",
   "engines": {
     "node": ">=6"
   },
   "bugs": {
-    "url": "https://github.com/facebookincubator/create-react-app/issues"
+    "url": "https://github.com/linhaobin/react-script-hb/issues"
   },
   "files": [
     "bin",

@@ -6,6 +6,8 @@
  * LICENSE file in the root directory of this source tree.
  */
 // @remove-on-eject-end
+'use strict';
+
 const fs = require('fs');
 const path = require('path');
 const paths = require('./paths');

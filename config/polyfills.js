@@ -6,6 +6,8 @@
  * LICENSE file in the root directory of this source tree.
  */
 // @remove-on-eject-end
+'use strict';
+
 if (typeof Promise === 'undefined') {
   // Rejection tracking prevents a common issue where React gets into an
   // inconsistent state due to an error, but it gets swallowed by a Promise,
